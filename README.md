@@ -18,6 +18,8 @@ Artificial Intelligence course. All code is written in Python.
 | **Lab 2** | Graph Traversal (Level-Order) | Breadth-First Search (BFS) | [View](./02_BFS_Traversal/) |
 | **Lab 2** | Graph Traversal (Depth) | Depth-First Search (DFS) | [View](./03_DFS_Traversal/) |
 | **Lab 2** | State Space Optimization | Hill Climbing Algorithm | [View](./04_Hill_Climbing/) |
+| **Lab 2** | Informed Search | Greedy Best-First Search | [View](./05_Best_First_Search/) |
+| **Lab 2** | Optimal Pathfinding | A* (A-Star) Search | [View](./06_A_Star_Search/) |
 ## Setup & Requirements
 
 * Python 3.8+
