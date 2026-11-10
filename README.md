@@ -6,7 +6,7 @@ Artificial Intelligence course. All code is written in Python.
 
 ---
 
-**Kashish Nankani** | IC-2K23-49 | MCA 7th Sem – Section A
+**Kashish Nankani** | IC-2K23-49 | MCA 7th Sem – Section 'A'
 
 ---
 
